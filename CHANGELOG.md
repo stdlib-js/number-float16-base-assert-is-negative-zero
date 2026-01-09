@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`63a9af5`](https://github.com/stdlib-js/stdlib/commit/63a9af59c1d602d79ae593bb98346e991b0f2874) - **docs:** update descriptions _(by Athan Reines)_
 -   [`2d6416a`](https://github.com/stdlib-js/stdlib/commit/2d6416add43fe03624335438d20fb293bf78405a) - **feat:** add `number/float16/base/assert/is-negative-zero` [(#9623)](https://github.com/stdlib-js/stdlib/pull/9623) _(by Neeraj Pathak)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Neeraj Pathak
 
 </section>

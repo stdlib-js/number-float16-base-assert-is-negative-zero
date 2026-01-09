@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Test if a half-precision floating-point numeric value is negative zero.
+> Test if a half-precision floating-point number is negative zero.
 
 <section class="installation">
 
@@ -65,7 +65,7 @@ var isNegativeZero = require( '@stdlib/number-float16-base-assert-is-negative-ze
 
 #### isNegativeZero( x )
 
-Tests if a half-precision floating-point `numeric` value is negative zero.
+Tests if a half-precision floating-point number is negative zero.
 
 ```javascript
 var bool = isNegativeZero( -0.0 );
